@@ -1,0 +1,11 @@
+SMAP
+registerCandidate_jsp.java
+JSP
+*S JSP
+*F
++ 0 registerCandidate.jsp
+registerCandidate.jsp
+*L
+1,69:44
+127,8:113
+*E
